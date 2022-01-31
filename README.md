@@ -1,5 +1,7 @@
 # conf.rejaul
+apt update && apt upgrade
 
+git clone https://github.com/princeicon2712/conf.rejaul.git
 
 cd conf.rejaul
 
