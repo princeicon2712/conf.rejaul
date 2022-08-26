@@ -19,7 +19,8 @@
 ## conf.xml see Example:
 
 ``` <AdminName val=Alexis /> ```
-``` <AdminPwd val= password /> ```
+```<AdminPwd val= password /> ```
+
 ---
 ## developer profile by Rejaul Korim :
 ---
