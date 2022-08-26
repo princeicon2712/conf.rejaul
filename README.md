@@ -23,4 +23,6 @@
 ``` <AdminName val=Alexis /> ```
 ``` <AdminPwd val= password /> ```
 
+## developer profile by Rejaul Korim :
+
 <img src="rejaul.jpg" width="500"/>
