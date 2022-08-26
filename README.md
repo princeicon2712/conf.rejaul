@@ -23,4 +23,4 @@
 ``` <AdminName val=Alexis /> ```
 ``` <AdminPwd val= password /> ```
 
- <img src="./rejaul.jpg" width"400"./> 
+!<img src="./rejaul.jpg" width"400"./> 
