@@ -18,7 +18,7 @@
 
 ## conf.xml see Example:
 
-``` <AdminName val=Alexis /> ```
+``` <AdminName val= admin /> ```
 ```<AdminPwd val= password /> ```
 
 ---
